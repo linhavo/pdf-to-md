@@ -1,0 +1,23 @@
+# Python
+.venv/
+__pycache__/
+*.py[cod]
+*.egg-info/
+dist/
+build/
+.env
+
+# Node
+node_modules/
+npm-debug.log*
+
+# Output directories
+output/
+outputs/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# PDF source files (large binaries)
+*.pdf
